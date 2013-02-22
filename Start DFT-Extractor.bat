@@ -1,1 +1,1 @@
-@java -jar facetedTaxonomy.jar
+@javaw -jar facetedTaxonomy.jar
