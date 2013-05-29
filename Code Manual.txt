@@ -1,0 +1,2 @@
+DFT-Extractor is developed with MyEclipse 9 + JDK7.
+D:\Program Files\MyEclipse\xjtu_workspace\facetedTaxonomy
